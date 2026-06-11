@@ -29,4 +29,4 @@ GET http://localhost:8080/
 
 
 ### Get the message by its id
-GET http://localhost:8080/1cad3db1-ba22-4dee-8c3c-36305406cec9
+GET http://localhost:8080/d700ab1e-bda9-4309-bd16-9c547dff4a88
