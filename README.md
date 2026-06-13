@@ -25,7 +25,10 @@ and learn kotlin by doing.
   - **Kotlin Collections** - sets, lists, and map.
       - readonly and mutable collection types
       - readonly: `listOf()`
-      - mutable:  `mutableListOf()` 
+      - mutable:  `mutableListOf()`
+  - **Referential Equality Vs Structural Equality**
+      -  Referential Equality uses `===` to compare the references.
+      -  Structural Equality uses `==` to compare values.
        
 
    
